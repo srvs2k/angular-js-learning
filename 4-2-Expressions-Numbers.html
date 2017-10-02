@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div ng-app="" ng-init="quantity=2;cost=7">
+
+    <p>Total in dollar: {{ quantity * cost }}</p>
+
+    <p>Total in dollar: <span ng-bind="quantity * cost"></span></p>
+
+    <p>Total in dollar: <input type="text" value="{{quantity * cost}}"></input></p>
+
+
+</div>
+</body>
+</html>

@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a24b5d04-f550-4bdd-8b0d-858fe4fdcff0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-1-expression.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-2-Expressions-Numbers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-3-expressions-strings.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-5-Expressions-Arrays.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3-ng-data-init.html.bak" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4-expression .html.bak" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/5-module-controller-application.html.bak" afterPath="$PROJECT_DIR$/4-4-Expressions-Objects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a24b5d04-f550-4bdd-8b0d-858fe4fdcff0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -604,7 +595,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
